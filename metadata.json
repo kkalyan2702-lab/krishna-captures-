@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Captures",
+  "description": "Distraction-free, cinematic photo slideshow screensaver with smooth crossfade and Ken Burns zoom effects for Android TV and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
