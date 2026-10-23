@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Krishna Captures</string>
+    <string name="screensaver_subtitle">Distraction-Free Cinematic Photo Screensaver</string>
+    <string name="start_slideshow">Start Screensaver</string>
+    <string name="settings">Settings Dashboard</string>
+    <string name="add_photos">Select Photos</string>
+    <string name="add_folder">Select Folder</string>
+    <string name="idle_timer_title">Idle Screensaver Timer</string>
+    <string name="idle_timer_desc">Automatically launch screensaver when inactive</string>
+    <string name="slideshow_timer_title">Photo Display Duration</string>
+    <string name="slideshow_timer_desc">Time each photo is displayed (min 1 min)</string>
+    <string name="ken_burns_title">Ken Burns Zoom Effect</string>
+    <string name="ken_burns_desc">Slow cinematic zoom and pan motion across photos</string>
+    <string name="crossfade_speed_title">Transition Speed</string>
+    <string name="crossfade_speed_desc">Crossfade duration between slides</string>
+    <string name="shuffle_loop_title">Infinite Shuffle Loop</string>
+    <string name="shuffle_loop_desc">Randomly order photos for continuous playback</string>
+    <string name="loaded_photos_count">%1$d Photos Ready</string>
+    <string name="no_photos_title">No Photos Loaded</string>
+    <string name="no_photos_desc">Add your wallpapers and photography shots to start the slideshow screensaver</string>
+    <string name="load_curated_samples">Load Curated Wallpaper Pack</string>
+    <string name="controls_hint">Tap anywhere or press back to show controls</string>
+</resources>
